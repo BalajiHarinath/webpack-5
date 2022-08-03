@@ -8,6 +8,8 @@
 			"@babel/preset-env"
 		]
 	},
+	"css-loader": "^5.2.4",
+	"style-loader": "^2.0.0",
 	"browserslist": "> 0.25%, not dead",
 	"scripts": {
 		"build": "webpack",
